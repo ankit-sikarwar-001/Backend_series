@@ -1,0 +1,21 @@
+{
+  "name": "full_backend",
+  "version": "1.0.0",
+  "description": "understand the basic of proxy and connectivity between frontend and backend",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "mera",
+    "desh",
+    "mahaan"
+  ],
+  "author": "Ankit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
